@@ -34,12 +34,12 @@ const Index = () => {
       <Box textAlign="center" py={10}>
         <Text fontSize="lg" mb={4}>Trusted by these six companies so far</Text>
         <HStack spacing={8} justify="center">
-          <Image src="/images/logo1.png" alt="Company 1" />
-          <Image src="/images/logo2.png" alt="Company 2" />
-          <Image src="/images/logo3.png" alt="Company 3" />
-          <Image src="/images/logo4.png" alt="Company 4" />
-          <Image src="/images/logo5.png" alt="Company 5" />
-          <Image src="/images/logo6.png" alt="Company 6" />
+          <Image src="/images/logo1.png" alt="Company 1" boxSize="50px" />
+          <Image src="/images/logo2.png" alt="Company 2" boxSize="50px" />
+          <Image src="/images/logo3.png" alt="Company 3" boxSize="50px" />
+          <Image src="/images/logo4.png" alt="Company 4" boxSize="50px" />
+          <Image src="/images/logo5.png" alt="Company 5" boxSize="50px" />
+          <Image src="/images/logo6.png" alt="Company 6" boxSize="50px" />
         </HStack>
       </Box>
 
